@@ -1,4 +1,13 @@
- About
+Hi, I’m Ines Messelmani
+- 👀 I’m interested in Web Dev,Al,Open-source project
+- 🌱 I’m currently learning Javascript,React
+- 💞️ I’m looking to collaborate on exciting open-source projects, innovative web applications)
+- 📫 How to reach me inesmess79@icloud.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love sport and travelling
+ 
+ 
+ABOUT
 
 Provide a more detailed description of the project. Explain the motivation behind it, what problems it solves, and its key features.
 Built With
