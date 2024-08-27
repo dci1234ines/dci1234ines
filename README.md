@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ines Messelmani
-- 👀 I’m interested in Web Dev, Al, open-source projects
-- 🌱 I’m currently learning About
+ About
 
 Provide a more detailed description of the project. Explain the motivation behind it, what problems it solves, and its key features.
 Built With
