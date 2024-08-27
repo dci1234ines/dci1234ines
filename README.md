@@ -6,24 +6,6 @@ Hi, I’m Ines Messelmani
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love sport and travelling
  
- 
-Here’s a versatile README template that you can use across all your GitHub projects. It’s designed to be easily adaptable for any type of project:
-Project Name
-
-A brief description of what the project does and its purpose.
-Table of Contents
-
-    About
-    Built With
-    Getting Started
-        Prerequisites
-        Installation
-    Usage
-    Roadmap
-    Contributing
-    License
-    Contact
-    Acknowledgments
 
 About
 
