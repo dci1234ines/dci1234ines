@@ -7,7 +7,25 @@ Hi, I’m Ines Messelmani
 - ⚡ Fun fact: I love sport and travelling
  
  
-ABOUT
+Here’s a versatile README template that you can use across all your GitHub projects. It’s designed to be easily adaptable for any type of project:
+Project Name
+
+A brief description of what the project does and its purpose.
+Table of Contents
+
+    About
+    Built With
+    Getting Started
+        Prerequisites
+        Installation
+    Usage
+    Roadmap
+    Contributing
+    License
+    Contact
+    Acknowledgments
+
+About
 
 Provide a more detailed description of the project. Explain the motivation behind it, what problems it solves, and its key features.
 Built With
@@ -69,15 +87,13 @@ Usage
 
 Explain how to use the project with examples, screenshots, or code snippets. If applicable, provide a link to a live demo.
 
-
 Roadmap
 
 Outline the project’s future development plans. You can also link to issues or milestones for detailed tracking.
 
 Add more documentation
 Implement feature X
-
-    Improve performance of Y
+Improve performance of Y
 
 Contributing
 
@@ -105,4 +121,3 @@ Acknowledge any resources, tools, or contributors that helped make the project p
     GitHub Pages
     Font Awesome
     [Other inspiring resources]
-
