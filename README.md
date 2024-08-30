@@ -59,7 +59,8 @@ Step-by-step instructions on how to get the development environment up and runni
 
 bash
 
-git clone https://github.com/your_username/repo_name.git
+dci1234ines
+
 
     Navigate to the project directory:
 
@@ -112,7 +113,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 Contact
 
-@dci1234ines - email@example.com
+@dci1234ines 
 
 Project Link: https://github.com/your_username/repo_name
 Acknowledgments
