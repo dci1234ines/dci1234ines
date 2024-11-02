@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, React, Backend**
 
 - 📫 How to reach me **inesmess79@icloud.com**
 
